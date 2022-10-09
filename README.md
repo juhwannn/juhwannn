@@ -1,10 +1,10 @@
-### GITHUB.IO
+### ✔️GITHUB.IO
 [juhwannn.github.io](https://juhwannn.github.io)
 
-### VELOG
+### ✔️VELOG
 [velog.io/@juhwannn](https://velog.io/@juhwannn)
 
-### TODO
+### ⚠TODO
 백준 풀이 & 프로그래머스 풀이
 
 ### ✔️HITs
