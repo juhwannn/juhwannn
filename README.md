@@ -53,9 +53,3 @@
     <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
     <img src="https://img.shields.io/badge/git kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">    
 </div>
-
-<br/>
-
-<div style={{float: "left"}}>
-    <a href="https://opgc.me/#/users/juhwannn" target="_blank"><img src="https://api.opgc.me/githubs/users/juhwannn/tag/?theme=basic" /></a>
-</div>
