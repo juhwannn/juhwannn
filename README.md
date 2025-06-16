@@ -19,4 +19,4 @@
 ## 📫 연락처
 
 - **Email**: algorithm123@naver.com
-- **Portfolio**: https://juhwannn.com
+- **Portfolio**: https://portfolio.juhwannn.com
