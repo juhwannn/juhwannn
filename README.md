@@ -7,15 +7,6 @@
 
 ---
 
-## 🛠️ 기술 스택
-
-- **Frontend**: React, Next.js, Vanilla JS, HTML/CSS
-- **Backend**: Node.js, Express, MongoDB
-- **DevOps**: GitHub Actions, Docker, EC2, Vercel
-- **Etc**: Chrome Extensions, Discord Bot, Keyboard Firmware
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
